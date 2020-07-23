@@ -25,7 +25,7 @@ testtools = "==2.2.0"
 traceback2 = "==1.4.0"
 unittest2 = "==1.1.0"
 waitress = "==1.4.3"
-WebTest = "==2.0.23"
+WebTest = "==2.0.35"
 yapf = "==0.22.0"
 
 [dev-packages]
