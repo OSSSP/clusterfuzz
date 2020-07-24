@@ -24,7 +24,7 @@ PyJWT==1.7.1
 python-dateutil==2.8.1
 pytz==2018.5
 PyYAML==5.1
-redis==3.3.11
+redis==3.5.3
 requests==2.21.0
 requests-toolbelt==0.9.1
 selenium==3.141.0
