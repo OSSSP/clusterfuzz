@@ -3,7 +3,7 @@ antlr4-python3-runtime==4.7.2; python_version >= '3.0'
 # TODO(aarya): Remove backports.lzma after python 3 migration.
 backports.lzma==0.0.13; sys_platform != 'win32'
 configparser==3.7.4
-firebase-admin==2.16.0
+firebase-admin==4.5.1
 future==0.17.1
 google-api-python-client==1.7.4
 google-auth==1.8.1
